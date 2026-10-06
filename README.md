@@ -1,7 +1,7 @@
 # Assignment 04: Loop exercises
 
 
-**Due: Thursday 03/05 by Midnight**
+**Due: As listen on course schedule**
 
 *Note: Homework Assignment 4 should be completed individually.*
 
@@ -348,4 +348,4 @@ The submission:
 
 ## Submitting
 
-Submit to your GitHub repositories before the due date/time.
+Submit to Gradescope before the due date/time.
