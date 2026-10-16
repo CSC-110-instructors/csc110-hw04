@@ -130,7 +130,7 @@ These are self-desig functions that take no inputs.
 
 ### my_for_loop
 
-The function has to ask for a string from the user. If the string length (use the `len` function) is not in the range [2,5] (between 2 and 5 inclusive), or if the string has spaces, then the function should immediately return.
+The function has to ask for a string from the user. If the string length (use the `len` function) is not in the range [2,5] (between 2 and 5 inclusive), or if the string has spaces, then the function should print "bad word" and immediately return.
 If the word is of a valid length, then the function should print one of the following things:
   * if the letter is a vowel, it should print: `"letter <let> is a vowel"` (where `<let>` is the letter in question)
   * if the letter is a consonant, it should print: `"letter <let> is a consonant"` (where `<let>` is the letter in question)
