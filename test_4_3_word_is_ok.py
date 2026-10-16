@@ -12,5 +12,5 @@ def test_4_3_word_is_ok(capsys, monkeypatch):
         m.setattr('builtins.input', lambda _: next(user_inputs))
         hw04.my_for_loop()
     captured = capsys.readouterr()
-    expected = "g is a consonant\no is a vowel\no is a vowel\nd is a consonant"
+    expected = "letter g is a consonant\nletter o is a vowel\nletter o is a vowel\nletter d is a consonant"
     assert expected in captured.out, "Tip: Did you check vowel vs not vowel; did you print correctly?"
